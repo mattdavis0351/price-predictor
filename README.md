@@ -12,7 +12,7 @@ The purpose of this project is to predict the final selling price of a chosen ho
 1. Create an API account with Zillow and obtain a _Zillow Web Services ID_.
 2. Navigate to Zillow's website and find a house that is on sale. An _already sold_ or _off the market_ property won't do. The chosen house must have a Zillow estimate with a range of low and high values. 
 
-## [Code](/blob/master/Zillow_Code.R)
+## [Code](/Zillow_Code.R)
 
 ### Install the necessary packages
 
