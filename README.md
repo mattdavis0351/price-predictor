@@ -2,8 +2,7 @@
 
 **Disclaimer: 
 I undertook this project in 2015 and the house I chose to predict the selling price of was:
-324 N 2nd St East Newark, NJ 07029
-The above house sold in 2018 for $315,000 (source: [zillow.com](https://www.zillow.com/homes/324-N-2nd-St,-East-Newark,-NJ-07029_rb/38879042_zpid/))**
+324 N 2nd St East Newark, NJ 07029. The house sold in 2018 for $315,000 (source: [zillow.com](https://www.zillow.com/homes/324-N-2nd-St,-East-Newark,-NJ-07029_rb/38879042_zpid/))**
 
 The purpose of this project is to predict the final selling price of a chosen house based on data obtained from Zillow. 
 
