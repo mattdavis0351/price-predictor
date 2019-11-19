@@ -54,11 +54,7 @@ The purpose of this project is to predict the final selling price of a chosen ho
 - Since the P-value > alpha (0.99 > 0.5), we do **NOT** reject the null hypothesis. 
 - Also the F-statistic is small therefore we accept the smaller fitted model to be the final model. 
 
-### 4. Cross Validation Plot using 4 Folds
-
-![](https://i.imgur.com/ktPOh7L.png)
-
-### 5. Estimates Table
+### Prediction
 
 ![](https://i.imgur.com/PKfEOiE.png)
 
