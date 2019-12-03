@@ -99,4 +99,4 @@ A little bit of digging uncovered articles like:
 
 And a big find was coming across this [Press Release](http://zillow.mediaroom.com/2019-01-30-Zillow-Awards-1-Million-to-Team-that-Built-a-Better-Zestimate) straight from the horse's mouth that talks about an open competition hosted by Zillow where teams were asked to improve the Zestimate. 
 
-**Moral of the story:** Even big organizations aren't perfect when it comes to this stuff. The key is to iterate and improve! :tada: 
+**Moral of the story:** The key is to iterate and improve, whether it's for an individual developer or a big organization! :tada: 
