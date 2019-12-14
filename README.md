@@ -88,15 +88,8 @@ I performed variable selection followed by transformation (in the form of `sqrt(
 
 ## In retrospect
 
-My linear model's prediction was pretty far off from the Zillow estimate which I'm sure might've seemed like a bummer at the time.
+Out of curiosity, I went back to Zillow's website and found that the house had in fact sold 3 years after this project was undertaken for $315,000 putting the accuracy levels at:
 
-But looking back at the fact that the house sold 3 years after this project was undertaken but for a price that was much lesser than the Zillow estimate (it sold for $315,000), makes one wonder about the accuracy of that estimate in the first place.
-
-A little bit of digging uncovered articles like:
-
-- [Forbes: How Accurate are Zillow Estimates?](https://www.forbes.com/sites/johnwake/2018/06/27/how-accurate-are-online-home-value-estimates/#86209856013a)
-- [Investopedia: Zillow Estimates - Not As Accurate As You Think](https://www.investopedia.com/articles/personal-finance/111115/zillow-estimates-not-accurate-you-think.asp)
-
-And a big find was coming across this [Press Release](http://zillow.mediaroom.com/2019-01-30-Zillow-Awards-1-Million-to-Team-that-Built-a-Better-Zestimate) straight from the horse's mouth that talks about an open competition hosted by Zillow where teams were asked to improve the Zestimate. 
-
-**Moral of the story:** The key is to iterate and improve, whether it's for an individual developer or a big organization! :tada: 
+My model's accuracy | Zillow Estimate's accuracy
+--- | ---
+85% accuracy | 87% accuracy
