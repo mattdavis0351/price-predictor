@@ -90,6 +90,6 @@ I performed variable selection followed by transformation (in the form of `sqrt(
 
 Out of curiosity, I went back to Zillow's website and found that the house had in fact sold 3 years after this project was undertaken for $315,000 putting the accuracy levels at:
 
-My model's accuracy | Zillow Estimate's accuracy
+My model | Zillow Estimate
 --- | ---
 85% accuracy | 87% accuracy
