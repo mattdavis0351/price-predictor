@@ -1,4 +1,4 @@
-# Price Predictor
+# Price Estimation of a Zillow House
 
 **Disclaimer: 
 I undertook this project in 2015 and chose to predict the selling price of the following :house::
